@@ -64,12 +64,8 @@ main{
   height: auto;
   width: 100%;
 }
-.rotate{
-  animation: rotation 5s infinite linear;
-}
 .floattoleft
 {
-  animation: rotation 5s infinite linear;
   float: left;
   margin-right: 4em;
   height: auto;
